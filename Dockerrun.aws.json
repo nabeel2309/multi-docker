@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "nabs2309/multi-nginx",
+      "image": "nabs2309/multi-nignx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
